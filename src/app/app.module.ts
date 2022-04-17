@@ -9,6 +9,9 @@ import { NavBarComponent } from './nav-bar/nav-bar.component';
 import { NameResultComponent } from './name-result/name-result.component';
 import { NameRepoComponent } from './name-repo/name-repo.component';
 import { MyHomeComponent } from './my-home/my-home.component';
+import { DirectivesDirective } from './directives.directive';
+import { BoldDirective } from './bold.directive';
+import { TimePassedPipe } from './time-passed.pipe';
 
 @NgModule({
   declarations: [
@@ -18,7 +21,10 @@ import { MyHomeComponent } from './my-home/my-home.component';
     NavBarComponent,
     NameResultComponent,
     NameRepoComponent,
-    MyHomeComponent
+    MyHomeComponent,
+    DirectivesDirective,
+    BoldDirective,
+    TimePassedPipe
   ],
   imports: [
     BrowserModule,
