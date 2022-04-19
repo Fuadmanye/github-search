@@ -27,4 +27,5 @@ A github finder that allows people to find github users by their username and on
 ## Support and contact details
 Email:https://github.com/Fuadmanye/github-search.git
 ### License
+
 Copyright (c) 2022 [click here to view license](LICENSE)
