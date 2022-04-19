@@ -12,7 +12,7 @@ A github finder that allows people to find github users by their username and on
 * cd github-search
 
 * run ng serve command on the terminal
-* 
+
 ## Technologies Used
 * HTML
 
@@ -25,6 +25,6 @@ A github finder that allows people to find github users by their username and on
 * git
 
 ## Support and contact details
-Email:https://github.com/Fuadmanye/quote-app.git
+Email:https://github.com/Fuadmanye/github-search.git
 ### License
 Copyright (c) 2022 [click here to view license](LICENSE)
